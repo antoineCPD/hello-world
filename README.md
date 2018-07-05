@@ -1,3 +1,3 @@
 # hello-world
 My first steps into GitHub.
-Autocomplete messed up the name of this branch, will create a new "proper" one.
+I am a mathematician previously educated in electrical and computer engineering (specialization in signal processing).  I have recently become interested again in computing and programming.
